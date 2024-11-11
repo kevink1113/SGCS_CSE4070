@@ -2,7 +2,9 @@
 
 운영체제 (CSE4070)
 
-2023년 1학기
+> [!NOTE]
+>
+> 2023-2학기 서강대학교 박성용 교수님의 운영체제 강의 내용을 정리한 노트 내용은 [내 블로그](https://blog.kevink1113.com/category/Computer%20Science/OS)에 연재하고 있으므로 참고하자. 
 
 | Project               | Contents         |
 | --------------------- | ---------------- |
@@ -68,6 +70,8 @@
 - [Pintos Project](https://web.stanford.edu/class/cs140/projects/pintos/pintos.html)
 
 Do not copy this code for your project. It is only for reference.
+
+---
 
 ## 🗂️ Sogang University Courses Repository
 
